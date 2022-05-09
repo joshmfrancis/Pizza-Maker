@@ -12,4 +12,4 @@ Use Cases:
 
 Problems:
 
- - Some people actually like Pineapple on pizza (Ew!)
+ - Some people actually like pineapple on pizza (Ew!)
